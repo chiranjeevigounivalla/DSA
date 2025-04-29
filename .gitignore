@@ -1,4 +1,3 @@
 "bin/" 
 ".settings/" 
-".project" 
-"*.class" 
+".project"
